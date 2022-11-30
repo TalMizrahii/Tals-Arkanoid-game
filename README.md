@@ -20,5 +20,5 @@ I implemented the game with Java language using Intellij IDEA Ultimate IDE, usin
 * Keyboard that contains: Spacebar (for stoppage), "P" button, and all arrows.
 * Apache Ant
 
-
-if you wish to run the game you can downlaod the "TalsArkanoid1.jar" from the release section.
+## Installing And Executing
+If you wish to run the game you can downlaod the "TalsArkanoid1.jar" from the release section.
